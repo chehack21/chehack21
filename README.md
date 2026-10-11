@@ -29,16 +29,6 @@ I am a passionate Android developer with a deep interest in Linux systems and ne
 
 ---
 
-### 📂 Featured Projects & Contributions
-
-* **[FATT-Android](Link_Here):** Contributed to an open-source tactical digital forensics extraction app, building UI state models and views using Kotlin and Jetpack Compose.
-* **[Social Media Automation](Link_Here):** An automation project connecting an Android Background Service to a backend server for remote control using Socket.IO.
-* **[HR Management System](Link_Here):** Developed a Human Resources management system, including ERD database schema design and project documentation.
-
-*(Note: Don't forget to replace `Link_Here` with the actual URLs of your repositories)*
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
